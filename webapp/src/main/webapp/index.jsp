@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Samya Technologies  2!!! </h1>
+<h1> Hello, Welcome to Samya Technologies  1.0!!! </h1>
 
